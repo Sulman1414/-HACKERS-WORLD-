@@ -44,3 +44,7 @@
 
 </Project>
 </Project>dotnet nuget push "bin/Release/PROJECT_NAME.1.0.0.nupkg" --source "github"
+HOSTNAME
+PROJECT_NAME
+GitHub
+hacker world 
