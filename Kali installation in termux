@@ -1,0 +1,12 @@
+*kali Linux installation in termux* 
+
+apt update && apt install wget -y
+
+wget -O install_kali https://git.io/JUnAD 
+
+chmod +x install_kali
+
+./install_kali
+
+
+INSTALLATION CMD KALI LINUX IN TERMUX 
