@@ -1,6 +1,7 @@
 # -HACKERS-WORLD-
 ONLY FOR EDUCATIONAL PURPOSES 
 
+# phishing attack #
 
 *apt update && upgrade -y 
 
